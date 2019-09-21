@@ -2,3 +2,8 @@ C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.Proje
 C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\bin\Debug\ProjectManager.DataContract.pdb
 C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\obj\Debug\ProjectManager.DataContract.dll
 C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\obj\Debug\ProjectManager.DataContract.pdb
+C:\Users\Admin\Documents\GitHub\ProjectManagementPortal\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\bin\Debug\ProjectManager.DataContract.dll
+C:\Users\Admin\Documents\GitHub\ProjectManagementPortal\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\bin\Debug\ProjectManager.DataContract.pdb
+C:\Users\Admin\Documents\GitHub\ProjectManagementPortal\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\obj\Debug\FSE.ProjectManagementPortal.DataContract.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\ProjectManagementPortal\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\obj\Debug\ProjectManager.DataContract.dll
+C:\Users\Admin\Documents\GitHub\ProjectManagementPortal\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataContract\obj\Debug\ProjectManager.DataContract.pdb
