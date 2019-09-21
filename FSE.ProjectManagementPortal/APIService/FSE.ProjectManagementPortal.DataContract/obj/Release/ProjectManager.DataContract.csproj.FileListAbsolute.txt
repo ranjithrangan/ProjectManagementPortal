@@ -1,0 +1,10 @@
+C:\Users\Elanchelian\Source\FinalFSD\Service\ProjectManager.DataContract\bin\Release\ProjectManager.DataContract.dll
+C:\Users\Elanchelian\Source\FinalFSD\Service\ProjectManager.DataContract\bin\Release\ProjectManager.DataContract.pdb
+C:\Users\Elanchelian\Source\FinalFSD\Service\ProjectManager.DataContract\obj\Release\ProjectManager.DataContract.csprojResolveAssemblyReference.cache
+C:\Users\Elanchelian\Source\FinalFSD\Service\ProjectManager.DataContract\obj\Release\ProjectManager.DataContract.dll
+C:\Users\Elanchelian\Source\FinalFSD\Service\ProjectManager.DataContract\obj\Release\ProjectManager.DataContract.pdb
+C:\Users\Admin\Documents\GitHub\FinalFSD-master\FinalFSD-master\Service\ProjectManager.DataContract\bin\Release\ProjectManager.DataContract.dll
+C:\Users\Admin\Documents\GitHub\FinalFSD-master\FinalFSD-master\Service\ProjectManager.DataContract\bin\Release\ProjectManager.DataContract.pdb
+C:\Users\Admin\Documents\GitHub\FinalFSD-master\FinalFSD-master\Service\ProjectManager.DataContract\obj\Release\ProjectManager.DataContract.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\FinalFSD-master\FinalFSD-master\Service\ProjectManager.DataContract\obj\Release\ProjectManager.DataContract.dll
+C:\Users\Admin\Documents\GitHub\FinalFSD-master\FinalFSD-master\Service\ProjectManager.DataContract\obj\Release\ProjectManager.DataContract.pdb

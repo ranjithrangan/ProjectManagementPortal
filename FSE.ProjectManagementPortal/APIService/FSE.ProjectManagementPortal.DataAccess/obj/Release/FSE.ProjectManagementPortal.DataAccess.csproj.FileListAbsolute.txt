@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\ProjectManager.DataAccess.dll.config
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\ProjectManager.DataAccess.dll
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\ProjectManager.DataAccess.pdb
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\ProjectManager.DataContract.dll
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\ProjectManager.DataContract.pdb
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\obj\Release\FSE.ProjectManagementPortal.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\obj\Release\ProjectManager.DataAccess.dll
+C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\obj\Release\ProjectManager.DataAccess.pdb
