@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Admin\Documents\GitHub\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAcces\Entity\ProjectManagerEntities.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Admin\Documents\GitHub\ProjectManagementPortal\FSE.ProjectManagementPortal\APIService\FSE.ProjectManagementPortal.DataAccess\Entity\ProjectManagerEntities.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

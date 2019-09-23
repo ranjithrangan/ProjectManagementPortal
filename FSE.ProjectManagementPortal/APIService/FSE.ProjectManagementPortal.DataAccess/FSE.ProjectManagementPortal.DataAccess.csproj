@@ -7,8 +7,8 @@
     <ProjectGuid>{868CBE10-B657-4E2F-B64D-5C02A0C3DFA8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjectManager.DataAccess</RootNamespace>
-    <AssemblyName>ProjectManager.DataAccess</AssemblyName>
+    <RootNamespace>FSE.ProjectManagementPortal.DataAccess</RootNamespace>
+    <AssemblyName>FSE.ProjectManagementPortal.DataAccess</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -96,7 +96,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DBScript\ProjectManagerDB.sql" />
     <Content Include="Entity\ProjectManagerEntities.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ProjectManagerEntities.edmx</DependentUpon>

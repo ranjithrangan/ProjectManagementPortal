@@ -1,7 +1,7 @@
 ﻿using FSE.ProjectManagementPortal.Api.Controllers;
 using NBench;
 
-namespace ProjectManager.NBench
+namespace FSE.ProjectManagementPortal.NBench
 {
     public class NBenchTest
     {

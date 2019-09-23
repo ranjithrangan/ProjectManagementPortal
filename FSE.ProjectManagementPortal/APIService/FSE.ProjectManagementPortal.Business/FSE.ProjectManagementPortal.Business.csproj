@@ -7,8 +7,8 @@
     <ProjectGuid>{D37501FF-CBCD-4215-9005-B214527979EC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjectManager.Business</RootNamespace>
-    <AssemblyName>ProjectManager.Business</AssemblyName>
+    <RootNamespace>FSE.ProjectManagementPortal.Business</RootNamespace>
+    <AssemblyName>FSE.ProjectManagementPortal.Business</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

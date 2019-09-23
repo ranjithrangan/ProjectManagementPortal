@@ -63,13 +63,13 @@ namespace FSE.ProjectManagementPortal.Api.Tests
             projectController = new ProjectController();
             ProjectModel projectModel = new ProjectModel
             {
-                Project_ID = 4,
-                Project = "This is the Unit test Updated Project Name",
-                Start_Date = DateTime.Parse("15-11-2018"),
-                End_Date = DateTime.Parse("25-11-2018"),
+                Project_ID = 2003,
+                Project = " Updated Project Name Test",
+                Start_Date = DateTime.Parse("15-11-2019"),
+                End_Date = DateTime.Parse("25-11-2019"),
                 Priority = 2,
                 Status = true,
-                Manager_ID = "103"
+                Manager_ID = "1"
             };
             //Act
             int returnVal = projectController.UpdaterojectModel(projectModel);

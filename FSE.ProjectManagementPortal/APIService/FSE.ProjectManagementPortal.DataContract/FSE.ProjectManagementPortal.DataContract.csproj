@@ -7,8 +7,8 @@
     <ProjectGuid>{E6A6ED3B-21D2-46B6-BA4B-EDB799C03FDC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjectManager.DataContract</RootNamespace>
-    <AssemblyName>ProjectManager.DataContract</AssemblyName>
+    <RootNamespace>FSE.ProjectManagementPortal.DataContract</RootNamespace>
+    <AssemblyName>FSE.ProjectManagementPortal.DataContract</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

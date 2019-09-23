@@ -8,8 +8,8 @@
     <ProjectGuid>{B909CF08-A063-4B33-AC3D-CE2D5F27E5E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjectManager.NBench</RootNamespace>
-    <AssemblyName>ProjectManager.NBench</AssemblyName>
+    <RootNamespace>FSE.ProjectManagementPortal.NBench</RootNamespace>
+    <AssemblyName>FSE.ProjectManagementPortal.NBench</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

@@ -35,10 +35,10 @@ namespace FSE.ProjectManagementPortal.Api.Tests
             userController = new UserController();
             UserModel userModel = new UserModel
             {
-                First_Name = "test first",
-                Last_Name = "Last Name unit",
-                Employee_ID = "105",
-                Project_ID = 2,
+                First_Name = " First Name test ",
+                Last_Name = " Last Name test",
+                Employee_ID = "2",
+                Project_ID = 2003,
                 IsActive = true
             };
             //Act
@@ -60,11 +60,11 @@ namespace FSE.ProjectManagementPortal.Api.Tests
             userController = new UserController();
             UserModel userModel = new UserModel
             {
-                User_ID=6,
-                First_Name = "test first",
-                Last_Name = "Updated name",
-                Employee_ID = "105",
-                Project_ID = 2,
+                User_ID=1,
+                First_Name = "Updated first Name",
+                Last_Name = "Updated last name",
+                Employee_ID = "344567",
+                Project_ID = 2003,
                 IsActive = true
             };
             //Act

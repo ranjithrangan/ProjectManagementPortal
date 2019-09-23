@@ -1,6 +1,6 @@
 ﻿using FSE.ProjectManagementPortal.DataAccess;
+using FSE.ProjectManagementPortal.DataAccess.Entity;
 using FSE.ProjectManagementPortal.DataContract;
-using ProjectManager.DataAccess.Entity;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
