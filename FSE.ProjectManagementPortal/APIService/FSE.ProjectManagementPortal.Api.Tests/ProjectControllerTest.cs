@@ -67,7 +67,7 @@ namespace FSE.ProjectManagementPortal.Api.Tests
                 Project = " Updated Project Name Test",
                 Start_Date = DateTime.Parse("15-11-2019"),
                 End_Date = DateTime.Parse("25-11-2019"),
-                Priority = 2,
+                Priority = 5,
                 Status = true,
                 Manager_ID = "1"
             };
