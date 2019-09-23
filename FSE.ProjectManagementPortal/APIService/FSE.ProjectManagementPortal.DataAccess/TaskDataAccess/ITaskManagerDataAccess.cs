@@ -7,9 +7,7 @@ namespace FSE.ProjectManagementPortal.DataAccess
     {
         List<ParentTaskDetails> GetParentTaskRepository();
         List<TaskModel> GetAllTaskRepository();
-
         int InsertTaskRepository(TaskModel taskModel);
-
         int UpdateTaskRepository(TaskModel taskModel);
     }
 }

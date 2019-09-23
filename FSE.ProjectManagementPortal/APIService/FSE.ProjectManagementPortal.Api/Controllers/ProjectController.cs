@@ -2,6 +2,7 @@
 using FSE.ProjectManagementPortal.DataContract;
 using System.Collections.Generic;
 using System.Web.Http;
+
 namespace FSE.ProjectManagementPortal.Api.Controllers
 {
     public class ProjectController : ApiController
@@ -14,7 +15,6 @@ namespace FSE.ProjectManagementPortal.Api.Controllers
         {
             projectBusiness = new ProjectBusiness();
             List<ProjectModel> result = projectBusiness.GetProjectList();
-
             return result;
         }
 

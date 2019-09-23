@@ -26,7 +26,6 @@ namespace FSE.ProjectManagementPortal.Api.Controllers
             int result = userMgrBusiness.InsertUserDetails(userModel);
             return result;
         }
-
         [HttpPost]
         [Route("api/ProjectManager/User/Update")]
         public int UpdateUserModel(UserModel userModel)
